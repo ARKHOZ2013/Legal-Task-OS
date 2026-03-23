@@ -1,0 +1,78 @@
+{
+  "node": {
+    "0ac7ee001143c86c1c70fb103ab748295d3a7ed9": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/kanban/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/settings/page": "rsc",
+        "app/kanban/page": "rsc"
+      }
+    },
+    "2a432fca7f5989293a2989e8b8f8344700e4887e": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/kanban/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/settings/page": "rsc",
+        "app/kanban/page": "rsc"
+      }
+    },
+    "3d1eb6f2a15dbf05d4d837baa90c0158e9421772": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/kanban/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/settings/page": "rsc",
+        "app/kanban/page": "rsc"
+      }
+    },
+    "b7fc9423df527fc0550f205558b3ec527534b78c": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/kanban/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/settings/page": "rsc",
+        "app/kanban/page": "rsc"
+      }
+    },
+    "c5065124bf4067b1dcb9deb23df273e889b1fa20": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/kanban/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/settings/page": "rsc",
+        "app/kanban/page": "rsc"
+      }
+    },
+    "efa82d37c963d4d7f63f0cde0a4f7720e6794c92": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!",
+        "app/kanban/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5C.gemini%5C%5Cantigravity%5C%5Cplayground%5C%5Cvast-ionosphere%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22saveTask%22%2C%22getTasks%22%2C%22getSettings%22%2C%22deleteTask%22%2C%22saveSettings%22%2C%22updateTaskStatus%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/settings/page": "rsc",
+        "app/kanban/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "sNFpSgZkrEKll7MhJPCFxnBvHNm4XY9IVboq2lEhEAg="
+}
